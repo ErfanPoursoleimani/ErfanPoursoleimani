@@ -2,17 +2,11 @@
 
 **Computer Science Student · AI/ML Researcher**
 
-Interested in **Machine Learning, NLP, and LLMs**.
-
-Currently working on **Legal AI, RAG systems, large-scale data processing, and NLP**.
-
 ### Research Interests
 
-`AI` `Machine Learning` `NLP` `LLMs` `RNNs` `Knowledge Graphs`
+`Machine Learning` `NLP` `LLMs` `RNNs`
 
 > Exploring how intelligent systems learn, represent knowledge, and reason.
-
----
 
 ## Research & Projects
 
