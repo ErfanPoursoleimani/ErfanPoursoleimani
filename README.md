@@ -6,8 +6,6 @@
 
 `Machine Learning` `NLP` `LLMs` `RNNs`
 
-> Exploring how intelligent systems learn, represent knowledge, and reason.
-
 ## Research & Projects
 
 ### 🤖 NLP & LLM Research
