@@ -8,11 +8,11 @@
 
 ## Research & Projects
 
-### 🤖 NLP & LLM Research
+### NLP & LLM Research
 
 Exploring research problems in **Natural Language Processing and Large Language Models**, with a focus on understanding how intelligent systems learn, represent knowledge, and reason.
 
-### ⚖️ Legal AI
+### Legal AI
 
 Building an AI system for understanding and retrieving information from large collections of legal documents.
 
@@ -22,7 +22,7 @@ Large-scale document processing · Information retrieval · Semantic search · V
 **Technologies:**
 `Python` `FastAPI` `NLP` `Machine Learning` `RAG` `Vector Database` `Knowledge Graph` `LLMs` `Selenium` `SQLite`
 
-### 🧮 Linear Algebra Educational Content
+### Linear Algebra Educational Content
 
 Created educational content explaining proofs, concepts, and exercises from **Linear Algebra Done Right** by Sheldon Axler.
 
